@@ -20,4 +20,4 @@ This repository contains the assignment solutions and resources for the bootcamp
    ```
    
 ## License
-[MIT](https://github.com/johneliud/emobilis-bootcamp/blob/main/LICENSE)
+[MIT](https://github.com/johneliud/emobilis_bootcamp/blob/main/LICENSE)
